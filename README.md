@@ -1,14 +1,22 @@
 # Pawla Homsi
 
-Senior software engineer with about seven years of building production backend systems at Microsoft, PwC, TPay Mobile and E-Vision Technology. I am now moving deeper into AI and data engineering: studying Data Science at DSTI School of Engineering in France and building with LLMs.
+Senior software engineer with 7+ years building scalable, distributed systems at Microsoft, PwC, TPay Mobile and E-Vision Technology, most recently leading delivery of an agentic AI platform. Now studying Data Science at DSTI School of Engineering in France.
 
 Open to senior software, data and AI engineering roles in Europe, starting with the Netherlands.
 
+## Highlights
+
+- **PwC:** led a team of 5–8 engineers delivering an agentic AI platform for a European insurer; cut process time by 30% in the production pilot.
+- **Microsoft Clarity:** built visual-parity tooling with over 95% accuracy that safeguards the quality of the Clarity SDK, and cut CI pipeline runtime by 40%.
+- **Microsoft Edge:** architected a microservice platform serving millions of coupons to Edge users.
+- **TPay Mobile:** integrated app-store and mobile-carrier payment services; improved backend efficiency by 25%.
+
 ## What I work with
 
-- **Languages:** C# / .NET, Python, SQL, TypeScript / JavaScript
-- **Cloud and delivery:** Azure, Docker, CI/CD pipelines
-- **AI engineering:** Model Context Protocol (MCP) servers
+- **Languages:** C# / .NET, Python, Java, SQL, TypeScript / JavaScript (React)
+- **Data:** PostgreSQL, MSSQL, Redis, Databricks, Azure Data Explorer
+- **Cloud and delivery:** Azure, Azure DevOps, Docker, CI/CD
+- **AI engineering:** LLM integration, AI agent orchestration (MCP, A2A)
 
 ## Selected work
 
@@ -21,11 +29,11 @@ Open to senior software, data and AI engineering roles in Europe, starting with 
 
 ## Currently learning
 
-Statistics and machine learning at DSTI, retrieval-augmented generation (RAG) and LLM agents, PyTorch, and how to evaluate LLM applications properly.
+Statistics and machine learning at DSTI, retrieval-augmented generation (RAG), PyTorch, and how to evaluate LLM applications properly.
 
 ## Outside work
 
-I mentor women in tech through Tech4Dev.
+I mentor five women entering and advancing in tech through Tech4Dev.
 
 ## Contact
 
